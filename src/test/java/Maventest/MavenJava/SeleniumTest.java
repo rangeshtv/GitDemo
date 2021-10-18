@@ -13,6 +13,7 @@ public class SeleniumTest {
 		System.out.println("Git4 started");
 		System.out.println("Git5 started");
 		System.out.println("Git6 Master  started");
+		System.out.println("Git6 Master  Ended");
 
 	}
 
