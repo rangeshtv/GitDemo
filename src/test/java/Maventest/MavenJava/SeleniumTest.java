@@ -9,9 +9,6 @@ public class SeleniumTest {
 		System.out.println("Maven started");
 		System.out.println("Git started");
 		System.out.println("Git2 started");
-		System.out.println("Git3 started");
-		System.out.println("Git4 started");
-		System.out.println("Git5 started");
 		
 
 	}
